@@ -1,4 +1,4 @@
-require 'redmine/scm/adapters/abstract_adapter'
+require 'abstract_adapter'
 require 'uri'
 require 'no_proxy_fix'
 
