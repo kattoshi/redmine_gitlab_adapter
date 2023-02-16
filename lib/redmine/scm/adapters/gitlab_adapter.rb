@@ -1,4 +1,4 @@
-require 'abstract_adapter'
+require Rails.root.join('lib/redmine/scm/adapters/abstract_adapter')
 require 'uri'
 require 'no_proxy_fix'
 
